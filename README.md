@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ruby programming<br>👯 I’m looking to collaborate on projects to improve technology <br>🤝 I’m looking for help with Javascript, Ruby, HTML and CSS<br>🌱 I’m currently learning Ruby on rails<br>💬 Ask me about anything<br>⚡ Fun fact "Technology can be a good servant but a bad master"
+🔭 I’m currently working on backend development with Ruby and sqlite<br>👯 I’m looking to collaborate on projects to improve technology <br>🤝 I’m looking for help with Javascript, Ruby, HTML and CSS<br>🌱 I’m currently learning Ruby on rails<br>💬 Ask me about anything<br>⚡ Fun fact "Technology can be a good servant but a bad master"
 
 
 ## 🌐 Socials:
